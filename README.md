@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ## ▶️ Ejecución
 1. Clonar este repositorio:
 \`\`\`bash
-git clone https://github.com/usuario/Proyecto_dia8_Analisis_Datos_Meteorologicos.git
+git clone https://github.com/JuanM1005/Analisis-datos-meteorologicos.git
 \`\`\`
 2. Entrar al directorio:
 \`\`\`bash

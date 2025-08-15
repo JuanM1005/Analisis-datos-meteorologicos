@@ -1,0 +1,2 @@
+echo "pandas
+numpy" > requirements.txt
